@@ -13,6 +13,6 @@ Specifically, this would visualize a sample data set regarding COVID-19 statisti
 # Current State of the Project Can Be Viewed <a href="http://drenales.atwebpages.com/html/index.html">Here</a>
 # To Host Your Own Free Web Page Using Award Space
 1) Sign up at Award Space <a href="https://www.awardspace.com/">here</a>
-2) At the dashboard, "Hosting Tools" -> "Domain Manager," and create a free subdomain (unless willing to pay for a domain)
-3) At the dashboard, "Hosting Tools" -> "File Manager," and upload your website files into the file manager \[NOTE: Edits may be necessary if using their MySQL database\]
+2) At the dashboard, "Hosting Tools" -> "Domain Manager," and create a free subdomain (unless you are willing to pay for a domain name)
+3) At the dashboard, "Hosting Tools" -> "File Manager," and upload your website files into the file manager 
 4) At the dashboard, "Hosting Tools" -> "MySQL Databases," create the database, and load your data
