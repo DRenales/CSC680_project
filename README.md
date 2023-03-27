@@ -4,4 +4,4 @@ Specifically, this would visualize a sample data set regarding COVID-19 statisti
 
 # Steps for running this 
 ## Local:
-1) Download XAMPP from here <a href=https://www.apachefriends.org/download.html></a>
+1) Download XAMPP from <a href=https://www.apachefriends.org/download.html>here</a>
