@@ -1,0 +1,27 @@
+* {box-sizing: border-box; }
+
+/* TOP NAVIGATION BAR BEGIN */
+
+.topnav-bar {
+  background-color: white;
+  overflow: hidden;
+  display: flex;
+  justify-content: space-around;
+  border: solid black 3px 
+}
+
+.topnav-bar a {
+  float: center;
+  text-align: center;
+  text-decoration: none;
+  font-size: 64px;
+}
+
+.topnav-bar a.active {
+	background-color: lightskyblue;
+	border-left: solid black 3px;
+	border-right: solid black 3px;
+	border-spacing: 25px 15px;
+}
+
+/* TOP NAVIGATION BAR END */
